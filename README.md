@@ -1,1 +1,1 @@
-https://bejjankisravan1213.github.io/bus-booking/
+https://bejjankisravan1213.github.io/ticket-booking/
